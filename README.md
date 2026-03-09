@@ -9,7 +9,7 @@ python3
   Clone the Repo. You should now have the file main.py
 
 2a.) 
-  Use Pyinstaller to compile main.py into cliddiction, then move this to wherever your PATH is
+  Use Pyinstaller to compile main.py into cliddiction, then move this to wherever your PATH is. If you do this, you can stop here. If not, continue.
 
 2b.)
   Make a file with the content:
